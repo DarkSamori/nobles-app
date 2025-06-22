@@ -5,21 +5,21 @@
   "platforms": {
     "darwin-x86_64": {
       "signature": "Content of app.tar.gz.sig",
-      "url": "https://v2.tauri.app/plugin/updater",
+      "url": "https://v2.tauri.app/plugin/updater/darwin-x86_64",
       "install": "",
       "darwin-aarch64": {
         "signature": "Content of app.tar.gz.sig",
-        "url": "https://v2.tauri.app/plugin/updater",
+        "url": "https://v2.tauri.app/plugin/updater/darwin-aarch64",
         "install": ""
       },
       "linux-x86_64": {
         "signature": "Content of app.AppImage.tar.gz.sig",
-        "url": "https://v2.tauri.app/plugin/updater",
+        "url": "https://v2.tauri.app/plugin/updater/linux-x86_64",
         "install": ""
       },
       "windows-x86_64": {
         "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
-        "url": "https://v2.tauri.app/plugin/updater",
+        "url": "https://v2.tauri.app/plugin/updater/windows-x86_64",
         "install": ""
       }
     }
