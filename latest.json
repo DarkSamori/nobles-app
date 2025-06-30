@@ -19,8 +19,8 @@
       "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.2/nobles_0.0.2_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4ak5HUEpWSTNjSERucCtabDF4ZDh5VnZPT3JlazlzeDQrTnQ0VW84SnNkRFNuaGJpNDBQS01XZzJSZXl2OFU3aytZSUFneXNwVFVFTGZnblJpUXpCRkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMjg3NDkxCWZpbGU6bm9ibGVzXzAuMC4yX3g2NF9lbi1VUy5tc2kuemlwCjFvbUhiZGRPK1V5Y1poQlhZRzB4bXNmc25iWlFmQkpwQW94NDBtOEJCRjN3SXppbEhqZUpSay84RjY4SElTcjN2cXNtUDVBN3I5dDRYMzVNZDB0bEJ3PT0K",
-      "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.2/nobles_0.0.2_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4akgvZzNMaVYxRXl1YjM1YkVrcG92MW54R3FmTHpNOUZwKzA5Wk90N1F3NzlvUERKOWhCR2o4QlkzcnkyaFFWWHFHcnNGS0F2WmgxRFRTZHJvTGxvL3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMjg3NDkxCWZpbGU6bm9ibGVzXzAuMC4yX3g2NF9lbi1VUy5tc2kKWDlxcjh3eWZpcTdXV3QrZ0w1NlBGWHhYeXpWSUFKSWVscTVYVDNWeGNWM0dyRWJzVDVycDZUbThBbll4cGFpY1ppWmFQMHlKK0dJOWoycVhpU0ZwRHc9PQo=",
+      "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.2/nobles_0.0.2_x64_en-US.msi.zip",
       "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.2/nobles_0.0.2_x64_en-US.msi"
     }
   }
