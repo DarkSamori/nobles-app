@@ -1,27 +1,27 @@
 {
-  "version": "v0.0.1",
-  "notes": "check releases page for more details",
-  "pub_date": "2020-06-22T19:25:57Z",
+  "version": "v0.0.2",
+  "notes": "First Pub Release",
+  "pub_date": "2025-06-30T12:44:59.370Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "Content of app.tar.gz.sig",
-      "url": "https://v2.tauri.app/plugin/updater/darwin-x86_64",
-      "install": ""
-    },
     "darwin-aarch64": {
-      "signature": "Content of app.tar.gz.sig",
-      "url": "https://v2.tauri.app/plugin/updater/darwin-aarch64",
-      "install": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4akZqdmIxVlk2c01KVnRmQVo3Tmp0UWtuNmVVdHd5dHptanRJdVI1TTZ2a3ZmUlVYUXlmR216TXJITTZRUElnQ2ZNRWYwK3JSV0Fid3E5T2JpcGxjc2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMjg2MjA0CWZpbGU6bm9ibGVzLmFwcC50YXIuZ3oKWXhWUVJxYm5jQzh6dWozVWQwUGJIL3dMQjZEZTlUeDdGS3hrcU1hVC9ablBrQTZqbjB5eHNibkQ4ZmdYZEo4ejhvbFlPbkVtdklXV1o3K3ByTHlXQUE9PQo=",
+      "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.2/nobles_aarch64.app.tar.gz",
+      "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.2/nobles_0.0.2_aarch64.dmg"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4akVpRERBUzRxWkViVDRWb1JzK3o2OEZMMkJxZlBBaCtHK3JyK3ZCS3Y0OUdEdkRLSDk1RWIvMURlTjRUdnJJTkVYMk0ybDZScGhJeUlmMUphN0NnbEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMjg2Mjg3CWZpbGU6bm9ibGVzLmFwcC50YXIuZ3oKamFwWkdxbkhiVGY2dERDdG5RN1RsejJNZUdSZ3BDS1lBeXVENkpCVWRHQjhRd0t2eFhVcU9oTEV6Qm5DYnZmTnVoVFdNd003dGpWbStHNktwVEZRRHc9PQo=",
+      "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.2/nobles_x64.app.tar.gz",
+      "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.2/nobles_0.0.2_x64.dmg"
     },
     "linux-x86_64": {
-      "signature": "Content of app.AppImage.tar.gz.sig",
-      "url": "https://v2.tauri.app/plugin/updater/linux-x86_64",
-      "install": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4akhrZThRQng3dGdrSWJyL21kQjd3SWt6TWdTaVh5TldncnplL0pUU3NNZno2bGZWSFVqY093WXBxUWZQcUNiUHBsNDg0N0FnZm5vZWdpWU5vQytxdlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMjg3MDg3CWZpbGU6bm9ibGVzXzAuMC4yX2FtZDY0LkFwcEltYWdlCmtoQVJaMFUxNjdiTG5FaUJZUDlGL1JQNzlyRGdTa2hMRDMzQTBDRVErWGdKaTd2cHRMVXNXaWIya0xKdFJoaGJKcDIyOWRIWXl6SkNaTDFDaDg1ZUN3PT0K",
+      "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.2/nobles_0.0.2_amd64.AppImage",
+      "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.2/nobles_0.0.2_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
-      "url": "https://v2.tauri.app/plugin/updater/windows-x86_64",
-      "install": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4ak5HUEpWSTNjSERucCtabDF4ZDh5VnZPT3JlazlzeDQrTnQ0VW84SnNkRFNuaGJpNDBQS01XZzJSZXl2OFU3aytZSUFneXNwVFVFTGZnblJpUXpCRkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMjg3NDkxCWZpbGU6bm9ibGVzXzAuMC4yX3g2NF9lbi1VUy5tc2kuemlwCjFvbUhiZGRPK1V5Y1poQlhZRzB4bXNmc25iWlFmQkpwQW94NDBtOEJCRjN3SXppbEhqZUpSay84RjY4SElTcjN2cXNtUDVBN3I5dDRYMzVNZDB0bEJ3PT0K",
+      "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.2/nobles_0.0.2_x64_en-US.msi",
+      "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.2/nobles_0.0.2_x64_en-US.msi"
     }
   }
 }
