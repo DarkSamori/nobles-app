@@ -1,7 +1,10 @@
 {
-  "version": "v0.0.3",
+  "version": "v0.0.1",
   "notes": "First Pub Release",
   "pub_date": "2025-06-30T17:11:46.647Z",
+  "name": "Nobles releases",
+  "type": "releases",
+  "app": "nobles",
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
