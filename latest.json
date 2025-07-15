@@ -9,12 +9,12 @@
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4akpuL3VoRlY3NDFxWHRiQkVJL2xhNWpsWXJHTVdteEZjTDQrS1ZKU2FDbGpvWEVIVlYxTjZYUEdJQnVKVjdJaXlyWWhHWFpXYzF1bm1qNGxwZ1BoN3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyNTEwMzYzCWZpbGU6bm9ibGVzLmFwcC50YXIuZ3oKbFdYSUtFeGNqbkh2T1IzeTlYa3dRY2o1bnFGb21ycnI0WVgvWHVSbEdhV29iYmRaNlNqd1hUbTRucU00SVhBQVNoTG1FUXdydVVhYXJaRGp6R1lQQVE9PQo=",
       "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.1/nobles_aarch64.app.tar.gz",
-      "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.1/nobles_0.0.1_aarch64.dmg"
+      "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.1/nobles-macos-sillicon.zip"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4ak9XS1pwTlZub015K2VzZjBhb1BiL0FQaTQ1U2FNUTFoTHlkZUh5U1NLSWVHQkZ0YmVPRWphVjMxMXorNUUweUZGZE9ETTkzZG1sYVh6MkNUZVk0OWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyNTEwNDgyCWZpbGU6bm9ibGVzLmFwcC50YXIuZ3oKR0tBRWFXOVN4OU1BbjJqSnVjTHBvdm15Y243U2dmZG9ubSt6aTlOT0grUkJjbjlpaURQaEdXcDdPN0R5L2VGZVVEV0s1VzJBdmRXRmlYT0VTV05iQmc9PQo=",
       "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.1/nobles_x64.app.tar.gz",
-      "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.1/nobles_0.0.1_x64.dmg"
+      "install": "hhttps://github.com/DarkSamori/nobles-app/releases/download/v0.0.1/nobles-macos-intel.zip"
     },
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4akJyN1dDcHJaUkNBNEhSWTg0ZmNPSGxJcUNnNlQrUEgrOFdPMHlFVllkQk1iMEtWMmR6aWMyaDBWWjFkSjEydzIzMExpNHZESENPUDlEOVVCT3Brb2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyNTExMjI4CWZpbGU6bm9ibGVzXzAuMC4xX2FtZDY0LkFwcEltYWdlLnRhci5negp1Yy9YUEVJcnBQQUxHM0NFaWJiZzZ2dFVUamdEMk9VVnUrUHBDTHErNiszV1pVay9pN1hYYm9YbVRrc2NvMlVkc2c2SGs3cUhZMkRJZjUyU25zUjFCQT09Cg==",
