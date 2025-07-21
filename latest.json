@@ -1,29 +1,29 @@
 {
-  "version": "v0.0.3",
+  "version": "v0.0.4",
   "notes": "fixed windows internal bugs",
-  "pub_date": "2025-07-19T17:37:23.495Z",
+  "pub_date": "2025-07-20T19:46:48.905Z",
   "type": "releases",
   "app": "nobles",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4akxkUGo4OUVlQ2c0R256c1JJN0ZUQWwwcGwrZGV5RXpwL2RSS2xkYjdlYm0yRzUyeEhKSHkzS0ZSSDJxbUVzRld1WWdyQWdmejNDS3RoUEN4eG9XQncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyOTQ1MjM5CWZpbGU6bm9ibGVzLmFwcC50YXIuZ3oKUTRRVVBvNGQ2R1NPRjdmQk1yNHV2U3kydVE0K2lESjM5V3FqVTRyNHRpRFV0Y0dmR1ZSVGxzMUZFcHVrSlNHMDcxazVYbGtJWVpEYVU5QnlpVDdlQ2c9PQo=",
-      "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.3/nobles_aarch64.app.tar.gz",
-      "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.3/mobles-macos-silicon.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4ak1pNTR2R0NYcS9IUCtlMUNXWDVUcnhZTWZkMGhUYVdwZmhuTW02VUFNM25RRCtWTmxqendBM00yMEkrbzFFMUpJeXJrS3c0NysrRUxEN3lxdnRDQUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzMTE0MjUyCWZpbGU6bm9ibGVzLmFwcC50YXIuZ3oKOUNmRGFqb21hcGhZdUhkRHdBSGgySWtRVFdaQWxRZm1ZVDBoMktkbHJqbmhmbnJsT0plN0ZzT2tUOXdoeGtRN1ZYdm9lc1NYVFpSQzV0NjhSTExvQ1E9PQo=",
+      "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.4/nobles_aarch64.app.tar.gz",
+      "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.4/mobles-macos-silicon-v0.0.4.zip"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4akhML0tMRk9NSFNnbFlBTzU0bVJ3SHFuTkNjMjBCbU9xNlNQaEF2ZGNDNWttblBZRDEyckZVdWdOczNzZVR6YkxqeWRpbzIrM002ZGhjb0l0QjhPbkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyOTQ1MjMwCWZpbGU6bm9ibGVzLmFwcC50YXIuZ3oKUVFZNWpwa3JEWXhEQUY5djRBMDR3OXQxSTltSDZNanNvUlhLL1kvendzaXRoR1VtNm1KcjdoeUcyNFVlWTNmcGptbFVrNVpVenVPRWNuWDlwMGpwQ2c9PQo=",
-      "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.3/nobles_x64.app.tar.gz",
-      "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.3/mobles-macos-intel.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4akpJc0RwQTIrVllIdHpBVVU2MytuWWFhZzgza2lIUnRkNytZaVRPK3ZuVGRkLzBTWHROa1JoRWxydWwwcmk0ekpQRStFYmEyay9ORGp0SmpHdUVnTWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzMTE0MDc4CWZpbGU6bm9ibGVzLmFwcC50YXIuZ3oKZEQyRmdlOFFKdW5QZHlScUlhSGxyeTVPN09kc1NUVzFJUTB1YW5PY1dmYWExcGhuby9yM3BaNVp1Z2FXUnhmblczVWk1d3VuL1NkZVRaMVRQVk56RHc9PQo=",
+      "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.4/nobles_x64.app.tar.gz",
+      "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.4/mobles-macos-intel-v0.0.4.zip"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4akJBTCt4dkhNcG43TWVETXU4aTdvYS9zUmRTNCtnaUFRWThaT1FmNWgrRy9sMFBBUm03NkNUaTVnb2ltVEd1Q1MzS1liNWtRVFE3SkFPTmR6SzZOWFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyOTQ2MTIzCWZpbGU6bm9ibGVzXzAuMC4zX2FtZDY0LkFwcEltYWdlCjEzS21SMjlkVjF3U2lRQktLNEhqUE1JQlc0VE1wYjBCUEV6c2xseS9VeWVDMGwrcklJcTdzbzZrdG9TR1c5OTl6VCtSS2hOTW9ZWi94cis1VS9tSUFBPT0K",
-      "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.3/nobles_0.0.3_amd64.AppImage",
-      "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.3/nobles_0.0.3_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4aks3ZktTNmhDWWNjcEFlbURja0VjdUdzN3NpQ1FWa0RRd3FvTEJVMjUwSHdKOVUvYk5sRzRub1NaZGdscnlFaEFod2xJelRZTWh0M250bkNGRnFoeXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzMTE0NzQ5CWZpbGU6bm9ibGVzXzAuMC40X2FtZDY0LkFwcEltYWdlCnJZb1ZUNDNlMkpXSjVmb2I3anlLOTc0dThNeGREc1d5dUpxbHFkSmV3cGFUcjZRSVBEZCtVclV1c3NpNm04aGRpN2VwRk1QdW96bXJIeWdQYzU0cUJRPT0K",
+      "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.4/nobles_0.0.4_amd64.AppImage",
+      "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.4/nobles_0.0.4_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4akFTdTdqNUtpVXV5NU1JSVFVa0YyUnBtL0szcE1jUFl2OEJuUFFMdXI1eFYxZkRtMXJ0bHU2c1NHMHRMZTNQYUVmaEtpUHNDNzgvdS8zYlNXSHFsM3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyOTQ2NjM5CWZpbGU6bm9ibGVzXzAuMC4zX3g2NF9lbi1VUy5tc2kKWnZUaUtiei9pWHltREo3LzU2VkRhbk1uZ0dML053cEZlbFVpY3hVdTU4QjZZWTkwMytlZVptNUdZaVVVL285ZVcxVHJvaE1xc1hybmJwU0lSNXRVQXc9PQo=",
-      "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.3/nobles_0.0.3_x64_en-US.msi",
-      "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.3/nobles-windows.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeml4NjQ1bEl4akE2NkRNaXZFbk1hR3plWFZFcS9EUCs3Tlp4RW4yU2JqbEIwU0ZIcGd5WjJ5dTl6Q2ZvYlVyaDFCMjlYQ1RlaVFaUlhTdUV4bHp0ZHlaU3ZzTUtkdFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzMTE1MDkyCWZpbGU6bm9ibGVzXzAuMC40X3g2NF9lbi1VUy5tc2kKM0IzQitVUm1neSs5Uy9WeWhxY0ZJWkVnTGhkTjVBQTFIaUJaTUZpVXFCNmlBanlpeHhYeDZwQ2ZldGJ3bGdWZFRLY2h0VTBXRWlzZnQ1amJRaXNBRGc9PQo=",
+      "url": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.4/nobles_0.0.4_x64_en-US.msi",
+      "install": "https://github.com/DarkSamori/nobles-app/releases/download/v0.0.4/nobles-windows-v0.0.4.zip"
     }
   }
 }
